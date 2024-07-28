@@ -1,4 +1,4 @@
-#Temperature Screening System using Facial Recognition
+# Temperature Screening System using Facial Recognition
 
 This is the system that will collect thermal images and collect temperature data points of all
 person who enter the any premises using smart camera and an infrared thermometer gun.
