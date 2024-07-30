@@ -51,7 +51,13 @@ Testing: Conduct thorough testing to ensure accuracy and reliability.
 Deployment: Deploy the system in the premises.
 Monitoring and Maintenance: Continuously monitor the system and update AI models as needed.
 ### Required Libraries:
-
+tensorflow
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
 ### Benefits
 Early Detection: Identifies potential health risks before they escalate.
 Real-time Monitoring: Provides continuous health monitoring without manual intervention.
